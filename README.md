@@ -1,5 +1,6 @@
 Cargo Logistics Database
 This project aims to develop a comprehensive database system for managing cargo logistics operations for transportation companies and logistics providers.
+
 <img width="348" alt="image" src="https://github.com/Aashfa/Cargo-Management-System/assets/140749591/a7e22abe-bdfa-4d5e-a6d4-a8197f50f113">
 <img width="345" alt="image" src="https://github.com/Aashfa/Cargo-Management-System/assets/140749591/b62b5d9f-4fcb-4de2-af61-9e9c7c764bc8">
 <img width="346" alt="image" src="https://github.com/Aashfa/Cargo-Management-System/assets/140749591/30055f42-a633-4a88-a52a-9b2dfc450519">
